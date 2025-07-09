@@ -1,7 +1,8 @@
-##2:1 MUX VERIFICATION USING LT SPICE  
+##2:1 MUX VERIFICATION USING LT SPICE with gates   
 Verification of the function of 2:1 mux which is used in digital ckt.  
 circuit diagram  
 <img width="765" height="318" alt="Image" src="https://github.com/user-attachments/assets/e7bb62ea-cd7a-4e41-bcf8-87a9582d10e7" />  
 truth table  
 <img width="248" height="320" alt="Image" src="https://github.com/user-attachments/assets/af579886-0515-43de-b8ca-c8b929f68063" />  
 verifaction with lt spice using logic gates  
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0c8fa172-88f8-48c8-8838-59f639824de7" />  
